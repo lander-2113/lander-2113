@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lander-2113
 - 👀 I’m interested in Coding, skateboard and violin.
-- 🌱 I’m currently Quantum Computing, learning android, WebDevelopment
+- 🌱 I’m currently invested in Quantum Computing, android development and WebDevelopment
 - 📫 How to reach me ...
 
 Linked In: https://www.linkedin.com/in/rohit-sahu-8526a9193
